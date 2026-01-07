@@ -1,5 +1,4 @@
 # Image to PDF Converter 
-# Image to PDF Converter 
 
 A simple Python script that converts multiple images into a single PDF file.  
 Powered by [Pillow (PIL fork)](https://pillow.readthedocs.io/).
